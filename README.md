@@ -7,6 +7,9 @@
 
 в терміналі впишіть наступні команди
 ![image](https://github.com/user-attachments/assets/138e3d18-1dbf-4dbe-a09a-27b5978211cc)
+
+
+
 спочатку # cd LibraryApp
 потім # npx serve
 в новій вкладці відкриється мій проект запущений у вас локально
